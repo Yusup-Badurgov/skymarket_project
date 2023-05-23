@@ -20,9 +20,10 @@ class CommentSerializer(serializers.ModelSerializer):
 
 
 class AdSerializer(serializers.ModelSerializer):
+
     class Meta:
         model = Ad
-        fields = '__all__'
+        fields = ("pk", "image", "title", "price", "description")
 
 
 
