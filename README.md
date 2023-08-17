@@ -1,8 +1,3 @@
-# Skypro_PD_13.0_Sergey_Levchuk_CourseWork_6
-
----
-[https://github.com/skypro-008/coursework_6_skymarket.git](https://github.com/skypro-008/coursework_6_skymarket.git)
-
 Данная курсовая работа представляет собой backend-часть для сайта объявлений. 
 
 
